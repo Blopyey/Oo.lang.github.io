@@ -1,0 +1,12 @@
+.hehe img{
+    width: 200px;
+}
+
+.hehe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:3em;
+}
+
